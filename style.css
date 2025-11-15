@@ -462,8 +462,6 @@ header .navbar a:hover {
     color: var(--red);
 }
 
-
-
 .loader-container {
     position: fixed;
     top: 0;
