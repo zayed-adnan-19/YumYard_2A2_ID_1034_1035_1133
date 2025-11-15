@@ -327,14 +327,14 @@ header .navbar a:hover {
 
 /* Gallery item names */
 .menu .box .item {
-    text-align: center;   /* Center the text */
-    padding-top: 1rem;    /* Space between image and name */
+    text-align: center; 
+    padding-top: 1rem;
 }
 
 .menu .box .item h3 {
-    font-size: 1.6rem;    /* Adjust font size if needed */
-    color: #333;          /* Name color */
-    margin: 0;            /* Remove extra margin */
+    font-size: 1.6rem;
+    color: #333;        
+    margin: 0;
 }
 
 .review .box-container {
